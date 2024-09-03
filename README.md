@@ -9,5 +9,9 @@ Dashboards em Python, aplicação como Power BI, podendo: Visualisar mensalmente
 ## 🚀 Execução:
 Iniciar pelo terminal, aplicar comando: `streamlit run dashboards.py`
 
+## 📩 Dúvidas:
+
+Qualquer dúvida, pode enviar um email para: [Miguel Rossi Fermo](mailto:miguelrossifermo05@gmail.com)
+
 ## 🔭 Demonstração:
 ![image](https://github.com/miguelfermo/Dashboards/assets/138122016/72935640-85ee-421e-93b7-66b38d15e360)
