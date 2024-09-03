@@ -3,7 +3,8 @@ Dashboards em Python, aplicação como Power BI, podendo: Visualisar mensalmente
 
 ## 🔧 Intalação:
 1. Clone este repositório com `git clone` ou baixe o código-fonte.
-2. Instale as dependências, caso houver: `pip install streamlit pandas plotly`
+2. Instalação de `Python`, caso não estiver previamente instalada em seu computador
+3. Instale as dependências, caso houver: `pip install streamlit pandas plotly`
 
 ## 🚀 Execução:
 Iniciar pelo terminal, aplicar comando: `streamlit run dashboards.py`
